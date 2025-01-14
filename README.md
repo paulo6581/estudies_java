@@ -3,7 +3,7 @@
 ## About:
 <p>Estudos avançados em java</p>
 
-## 🛠 Tópicos:
+## 🛠 Tópicos: 
  <ul>
     <li>Design Patterns Java</li>
     <li>TDD - Desenvolvimento Orientado a Testes</li>

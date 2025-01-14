@@ -12,6 +12,3 @@
     <li>Otimização Back-end Java</li>
     <li>Algoritmos avançados</li>
  </ul>
-
-
-teste2
